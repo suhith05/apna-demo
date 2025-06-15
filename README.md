@@ -1,4 +1,4 @@
 # apna-demo
 Git Learn
 <br>
-Author - Suhith
+Author - Suhith Jain
